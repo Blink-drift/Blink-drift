@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blink-drift
-- 👀 I’m interested in ... Game Dev, AIML and Data Science
-- 🌱 I’m currently learning ...Python and C#
+- 👀 I’m interested in ... Game Dev, AIML and Data Science and OS driver design
+- 🌱 I’m currently learning ...Assembly
 - 💞️ I’m looking to collaborate on ...any new video game project, that may help me sharpen my skills
 - 📫 How to reach me ...well...you are on my github profile aren't you?...hit me up or you can also find me on Discord(Dart Leo#6672)
 
