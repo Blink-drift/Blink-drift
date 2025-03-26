@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Game Dev, AIML and Data Science and System driver design
 - 🌱 I’m currently learning ...Assembly, Bash and Swift
 - 💞️ I’m looking to collaborate on ...any new video game or frontend project, that may help me sharpen my skills
-- 📫 How to reach me ...well...you are on my github profile aren't you?...hit me up or you can also find me on Discord(Dart Leo#6672)
+- 📫 How to reach me ...well...you are on my github profile aren't you?...open a pull request or you can also find me on Discord(Dart Leo#6672)
 
 <!---
 Blink-drift/Blink-drift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
